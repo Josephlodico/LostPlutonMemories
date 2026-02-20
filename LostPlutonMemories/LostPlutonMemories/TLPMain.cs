@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace LostPlutonMemories
 {
-    internal class Program
+    internal class TLPMain
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
