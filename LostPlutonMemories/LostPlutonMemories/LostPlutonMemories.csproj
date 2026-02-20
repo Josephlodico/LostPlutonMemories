@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TLPClasses\Zytron.cs" />
     <Compile Include="TLPMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TLPClasses\Memory.cs" />
