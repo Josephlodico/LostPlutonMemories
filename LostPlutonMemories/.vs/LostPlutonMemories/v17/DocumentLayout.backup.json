@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\josepHCodingPJ\\LostPlutonMemories\\LostPlutonMemories\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF50BF70-4404-4442-B7D2-706EA416B167}|LostPlutonMemories\\LostPlutonMemories.csproj|c:\\josephcodingpj\\lostplutonmemories\\lostplutonmemories\\lostplutonmemories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF50BF70-4404-4442-B7D2-706EA416B167}|LostPlutonMemories\\LostPlutonMemories.csproj|solutionrelative:lostplutonmemories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF50BF70-4404-4442-B7D2-706EA416B167}|LostPlutonMemories\\LostPlutonMemories.csproj|c:\\josephcodingpj\\lostplutonmemories\\lostplutonmemories\\lostplutonmemories\\tlpclasses\\zytron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF50BF70-4404-4442-B7D2-706EA416B167}|LostPlutonMemories\\LostPlutonMemories.csproj|solutionrelative:lostplutonmemories\\tlpclasses\\zytron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF50BF70-4404-4442-B7D2-706EA416B167}|LostPlutonMemories\\LostPlutonMemories.csproj|c:\\josephcodingpj\\lostplutonmemories\\lostplutonmemories\\lostplutonmemories\\tlpmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF50BF70-4404-4442-B7D2-706EA416B167}|LostPlutonMemories\\LostPlutonMemories.csproj|solutionrelative:lostplutonmemories\\tlpmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF50BF70-4404-4442-B7D2-706EA416B167}|LostPlutonMemories\\LostPlutonMemories.csproj|c:\\josephcodingpj\\lostplutonmemories\\lostplutonmemories\\lostplutonmemories\\tlpclasses\\memory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF50BF70-4404-4442-B7D2-706EA416B167}|LostPlutonMemories\\LostPlutonMemories.csproj|solutionrelative:lostplutonmemories\\tlpclasses\\memory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,12 +63,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\josepHCodingPJ\\LostPlutonMemories\\LostPlutonMemories\\LostPlutonMemories\\Program.cs",
-              "RelativeDocumentMoniker": "LostPlutonMemories\\Program.cs",
-              "ToolTip": "C:\\josepHCodingPJ\\LostPlutonMemories\\LostPlutonMemories\\LostPlutonMemories\\Program.cs",
-              "RelativeToolTip": "LostPlutonMemories\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Zytron.cs",
+              "DocumentMoniker": "C:\\josepHCodingPJ\\LostPlutonMemories\\LostPlutonMemories\\LostPlutonMemories\\TLPClasses\\Zytron.cs",
+              "RelativeDocumentMoniker": "LostPlutonMemories\\TLPClasses\\Zytron.cs",
+              "ToolTip": "C:\\josepHCodingPJ\\LostPlutonMemories\\LostPlutonMemories\\LostPlutonMemories\\TLPClasses\\Zytron.cs*",
+              "RelativeToolTip": "LostPlutonMemories\\TLPClasses\\Zytron.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBcAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:39:46.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Memory.cs",
+              "DocumentMoniker": "C:\\josepHCodingPJ\\LostPlutonMemories\\LostPlutonMemories\\LostPlutonMemories\\TLPClasses\\Memory.cs",
+              "RelativeDocumentMoniker": "LostPlutonMemories\\TLPClasses\\Memory.cs",
+              "ToolTip": "C:\\josepHCodingPJ\\LostPlutonMemories\\LostPlutonMemories\\LostPlutonMemories\\TLPClasses\\Memory.cs",
+              "RelativeToolTip": "LostPlutonMemories\\TLPClasses\\Memory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:32:37.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TLPMain.cs",
+              "DocumentMoniker": "C:\\josepHCodingPJ\\LostPlutonMemories\\LostPlutonMemories\\LostPlutonMemories\\TLPMain.cs",
+              "RelativeDocumentMoniker": "LostPlutonMemories\\TLPMain.cs",
+              "ToolTip": "C:\\josepHCodingPJ\\LostPlutonMemories\\LostPlutonMemories\\LostPlutonMemories\\TLPMain.cs",
+              "RelativeToolTip": "LostPlutonMemories\\TLPMain.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADQAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T21:11:26.557Z",
               "EditorCaption": ""

@@ -21,7 +21,7 @@ namespace LostPlutonMemories.TLPClasses
             Speak($"\"{memory.Title}\"");
             Console.WriteLine($"\n--- MEMORY {memory.Id}: {memory.Title} ---");
             Console.WriteLine(memory.Description);
-            Console.WriteLine("=================================");
+            Console.WriteLine("==================================================================================");
             Speak("Do you understand the Memory now... or are you still missing pieces?");
         }
     }
